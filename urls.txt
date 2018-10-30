@@ -1,2 +1,8 @@
 XXXX Adding an existing project to GitHub using the command line XXX
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/  
+
+XXX For React Data Table Plugins reference XXXX
+https://react-table.js.org/#/story/hoc-readme
+
+XXX Redux – End to End : Client Side Routing with React-Router | packtpub.com XXX
+https://www.youtube.com/watch?v=61fIDnReGUU&list=PLTgRMOcmRb3ODHaj8L_2zgxufUokZwt_P&index=4
