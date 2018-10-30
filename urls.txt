@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 abc
 
 dssd
+=======
+XXXX Adding an existing project to GitHub using the command line XXX
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/     
+>>>>>>> 47478ee25e334bf289afdb8c4132b56f5bd673cf
