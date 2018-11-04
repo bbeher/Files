@@ -18,3 +18,11 @@ https://github.com/SophieDeBenedetto/catbook-redux
 https://codesandbox.io/s/github/jbranchaud/redux-little-router-example
 
 https://codesandbox.io/s/8yv7p018rl
+
+XXXXXXXXXX
+https://medium.com/about-codecademy/react-router-to-redux-first-router-2fea05c4c2b7
+https://codesandbox.io/s/m76zjj924j?from-embed
+
+https://github.com/codewithtim/Redux
+
+
