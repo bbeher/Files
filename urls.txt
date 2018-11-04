@@ -25,4 +25,9 @@ https://codesandbox.io/s/m76zjj924j?from-embed
 
 https://github.com/codewithtim/Redux
 
+https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
+https://github.com/reactjs/react-router-redux/tree/master/examples/basic
+https://github.com/reactjs/react-router-redux
+
+
 
