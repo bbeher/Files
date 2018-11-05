@@ -29,5 +29,10 @@ https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-rou
 https://github.com/reactjs/react-router-redux/tree/master/examples/basic
 https://github.com/reactjs/react-router-redux
 
+XXX Redux Tutorial XXX
+https://hackernoon.com/a-basic-react-redux-introductory-tutorial-adcc681eeb5e
+https://itnext.io/tutorial-simple-react-redux-app-cd559621ec00
+https://www.valentinog.com/blog/react-redux-tutorial-beginners/
+
 
 
