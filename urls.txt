@@ -34,5 +34,11 @@ https://hackernoon.com/a-basic-react-redux-introductory-tutorial-adcc681eeb5e
 https://itnext.io/tutorial-simple-react-redux-app-cd559621ec00
 https://www.valentinog.com/blog/react-redux-tutorial-beginners/
 
+XXX Redux Simple Starter XXXX
+https://github.com/StephenGrider/ReduxSimpleStarter
+
+XXX Redux Ex XXX
+https://github.com/miguelsaddress/Contact-List-React-Redux   // Redux Contact List
+
 
 
