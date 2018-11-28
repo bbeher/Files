@@ -42,6 +42,12 @@ https://github.com/miguelsaddress/Contact-List-React-Redux   // Redux Contact Li
 
 https://codepen.io/Shamiul_Hoque/pen/OboVWQ
 
+XXX React JS - Component Life Cycle XXX
+https://www.codingame.com/playgrounds/8747/react-lifecycle-methods-render-and-componentdidmount
+https://www.tutorialspoint.com/reactjs/reactjs_component_life_cycle.htm
+https://grokonez.com/frontend/react/react-component-lifecycle-methods-from-v16-3-react-lifecycle-example
+https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/  
+https://egghead.io/lessons/react-understand-the-react-component-lifecycle-methods
 
 
 
