@@ -39,6 +39,13 @@ https://github.com/StephenGrider/ReduxSimpleStarter
 
 XXX Redux Ex XXX
 https://github.com/miguelsaddress/Contact-List-React-Redux   // Redux Contact List
+https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow
+https://flaviocopes.com/redux/
+https://itnext.io/tutorial-simple-react-redux-app-cd559621ec00
+https://medium.com/netscape/beginners-guide-to-react-redux-how-to-start-learning-and-not-be-overwhelmed-af04353101e
+https://hackernoon.com/a-basic-react-redux-introductory-tutorial-adcc681eeb5e?gi=917d13e00cee
+https://redux.js.org/basics/exampletodolist
+https://www.codementor.io/mz026/getting-started-with-react-redux-an-intro-8r6kurcxf
 
 https://codepen.io/Shamiul_Hoque/pen/OboVWQ
 
@@ -48,6 +55,7 @@ https://www.tutorialspoint.com/reactjs/reactjs_component_life_cycle.htm
 https://grokonez.com/frontend/react/react-component-lifecycle-methods-from-v16-3-react-lifecycle-example
 https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/  
 https://egghead.io/lessons/react-understand-the-react-component-lifecycle-methods
+
 
 
 
