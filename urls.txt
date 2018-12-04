@@ -47,6 +47,10 @@ https://hackernoon.com/a-basic-react-redux-introductory-tutorial-adcc681eeb5e?gi
 https://redux.js.org/basics/exampletodolist
 https://www.codementor.io/mz026/getting-started-with-react-redux-an-intro-8r6kurcxf
 
+//Modal in Redux Way
+https://medium.com/backticks-tildes/creating-a-modal-component-the-redux-way-cf9f4c5497dd  
+https://stackoverflow.com/questions/39174297/react-redux-with-bootstrap-modal-component
+
 https://codepen.io/Shamiul_Hoque/pen/OboVWQ
 
 XXX React JS - Component Life Cycle XXX
@@ -55,6 +59,7 @@ https://www.tutorialspoint.com/reactjs/reactjs_component_life_cycle.htm
 https://grokonez.com/frontend/react/react-component-lifecycle-methods-from-v16-3-react-lifecycle-example
 https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/  
 https://egghead.io/lessons/react-understand-the-react-component-lifecycle-methods
+
 
 
 
