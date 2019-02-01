@@ -61,6 +61,12 @@ https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
 https://egghead.io/lessons/react-understand-the-react-component-lifecycle-methods
 
 
+XXXX Reference for reat-redux xxxx
+https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f
+https://www.codingame.com/playgrounds/9169/simple-redux-create-delete-contact-application
+https://www.thegreatcodeadventure.com/react-redux-tutorial-part-viii-the-delete-feature/
+
+
 
 
 
