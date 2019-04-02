@@ -1,5 +1,6 @@
 XXXXXXXXXX Reference XXXXXXXXXXX
 https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d
+https://codepen.io/_danko/pen/NRLdVo
 
 
 XXXX Adding an existing project to GitHub using the command line XXX
