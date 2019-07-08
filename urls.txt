@@ -1,3 +1,11 @@
+XXXXXXXX Carousel Reference XXXXXXXXXXXXXXXXX
+https://codepen.io/kamenos96/pen/LQMxRe
+https://mdbootstrap.com/docs/jquery/javascript/carousel/
+https://medium.com/wdstack/bootstrap-4-custom-carousel-94a537364fde
+https://www.bootply.com/SObwIezDyx
+https://bootsnipp.com/snippets/VRWyR
+
+
 XXXXXXXXXX Reference XXXXXXXXXXX
 https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d
 https://codepen.io/_danko/pen/NRLdVo
