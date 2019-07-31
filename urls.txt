@@ -1,3 +1,15 @@
+XXXXXXXX Redux Example XXXXXXXXXXXXX
+https://codepen.io/anon/pen/QBdXxd?editors=0010
+https://blog.tylerbuchea.com/super-simple-react-redux-application-example/
+https://redux.js.org/basics/example
+https://codepen.io/danilonovakovic/pen/vavmpM?editors=0010#0
+https://codepen.io/anandrikka/pen/aJmYWP
+https://codepen.io/davidkpiano/pen/c683e0cf7ee54736b49b2ce30aba956f?editors=0010
+https://codepen.io/anuragasaurus/post/react-basics-simple-counter-made-with-react-and-redux
+https://codepen.io/Emperor359/pen/JKgzax?editors=0010#0
+https://codepen.io/twilson63/post/functional-react-redux-tutorial
+https://codepen.io/ceoimon/pen/GjKxgz?editors=0010#0
+
 XXXXXXXX Carousel Reference XXXXXXXXXXXXXXXXX
 https://codepen.io/kamenos96/pen/LQMxRe
 https://mdbootstrap.com/docs/jquery/javascript/carousel/
