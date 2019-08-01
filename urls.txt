@@ -1,3 +1,7 @@
+XXXX Only React CRUD Application XXXXX
+https://www.taniarascia.com/crud-app-in-react-with-hooks/
+https://github.com/taniarascia/react-hooks/tree/master/src
+
 XXXXXXXX Redux Example XXXXXXXXXXXXX
 https://codepen.io/anon/pen/QBdXxd?editors=0010
 https://blog.tylerbuchea.com/super-simple-react-redux-application-example/
