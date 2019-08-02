@@ -8,6 +8,14 @@ https://github.com/taniarascia/react-hooks/tree/master/src
 
 XXXXXXXX Redux Example XXXXXXXXXXXXX
 
+https://codesandbox.io/s/oj7px08qy9     //Best structured example
+https://codesandbox.io/s/ljy896z9q      // Full stack
+https://codesandbox.io/s/3mxjw78o5      // LOgin page
+
+https://codesandbox.io/s/0vm2w0k9r0     // Add Todo | All | Active | Complete     Redux official site example type
+
+https://codesandbox.io/s/7w8vw508n0       // Not sure it is working
+
 https://codeburst.io/redux-a-crud-example-abb834d763c9
 https://github.com/rajaraodv/redux
 https://github.com/rajaraodv/redux/tree/master/examples
@@ -25,6 +33,8 @@ https://codepen.io/twilson63/post/functional-react-redux-tutorial
 https://codepen.io/ceoimon/pen/GjKxgz?editors=0010#0
 
 https://github.com/tb/react-redux-crud    //Full stack
+
+https://codesandbox.io/s/38zplp5v76  // XX React-Redux Starter Template | Can try
 
 XXXXXXXX Carousel Reference XXXXXXXXXXXXXXXXX
 https://codepen.io/kamenos96/pen/LQMxRe
