@@ -7,6 +7,12 @@ https://www.taniarascia.com/crud-app-in-react-with-hooks/
 https://github.com/taniarascia/react-hooks/tree/master/src
 
 XXXXXXXX Redux Example XXXXXXXXXXXXX
+
+https://codeburst.io/redux-a-crud-example-abb834d763c9
+https://github.com/rajaraodv/redux
+https://github.com/rajaraodv/redux/tree/master/examples
+https://github.com/rajaraodv/react-redux-blog
+https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f
 https://codepen.io/anon/pen/QBdXxd?editors=0010
 https://blog.tylerbuchea.com/super-simple-react-redux-application-example/
 https://redux.js.org/basics/example
@@ -17,6 +23,8 @@ https://codepen.io/anuragasaurus/post/react-basics-simple-counter-made-with-reac
 https://codepen.io/Emperor359/pen/JKgzax?editors=0010#0
 https://codepen.io/twilson63/post/functional-react-redux-tutorial
 https://codepen.io/ceoimon/pen/GjKxgz?editors=0010#0
+
+https://github.com/tb/react-redux-crud    //Full stack
 
 XXXXXXXX Carousel Reference XXXXXXXXXXXXXXXXX
 https://codepen.io/kamenos96/pen/LQMxRe
