@@ -1,3 +1,7 @@
+XXXXXX JSON LOAD IMG Refe XXXXXXXXXX
+https://www.w3schools.com/js/tryit.asp?filename=tryjson_function
+https://www.w3schools.com/js/tryit.asp?filename=tryjson_file
+
 XXXX Only React CRUD Application XXXXX
 https://www.taniarascia.com/crud-app-in-react-with-hooks/
 https://github.com/taniarascia/react-hooks/tree/master/src
