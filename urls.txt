@@ -7,7 +7,10 @@ https://www.taniarascia.com/crud-app-in-react-with-hooks/
 https://github.com/taniarascia/react-hooks/tree/master/src
 
 XXXXXXXX Redux Example XXXXXXXXXXXXX
-
+https://stackblitz.com/edit/react-redux-registration-login-example?file=RegisterPage%2FRegisterPage.js  // Login page
+https://github.com/SophieDeBenedetto/catbook-redux/tree/blog-post         //XXXXXXXXXXX Login page not tested
+https://github.com/davidtran/react-redux-login-flow         //XXXXXXXXXXXXXXXX Login Example
+https://jslancer.com/blog/2017/04/27/a-simple-login-flow-with-react-and-redux/   // Tutorial of above example
 https://codesandbox.io/s/oj7px08qy9     //Best structured example
 https://codesandbox.io/s/ljy896z9q      // Full stack
 https://codesandbox.io/s/3mxjw78o5      // LOgin page
