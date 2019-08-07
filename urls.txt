@@ -13,6 +13,7 @@ https://dzone.com/articles/consuming-rest-api-with-reactjs
 
 https://upmostly.com/tutorials/form-validation-using-custom-react-hooks     //XXX React Hook
 https://github.com/upmostly/custom-react-hooks-form-validation
+https://www.freecodecamp.org/news/how-to-get-started-with-react-hooks-controlled-forms-826c99943b92/  //Xxx React hook basic example
 
 XXXXXXXX Redux Example XXXXXXXXXXXXX
 
