@@ -12,6 +12,7 @@ https://github.com/taniarascia/react-hooks/tree/master/src
 https://dzone.com/articles/consuming-rest-api-with-reactjs
 
 https://upmostly.com/tutorials/form-validation-using-custom-react-hooks     //XXX React Hook
+https://github.com/upmostly/custom-react-hooks-form-validation
 
 XXXXXXXX Redux Example XXXXXXXXXXXXX
 
