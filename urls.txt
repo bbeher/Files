@@ -10,6 +10,9 @@ XXXXXXXXXXXX Form Validation XXXXXXXXXXX
 https://codesandbox.io/s/github/johnythomas/simple-react-form-validation/tree/master/?from-embed
 
 XXXX Only React CRUD Application XXXXX
+https://medium.com/the-andela-way/handling-user-input-in-react-crud-1396e51a70bf
+https://github.com/vumbula/vumbula-react/tree/master/chapter%204/Delete-Final
+
 https://www.taniarascia.com/crud-app-in-react-with-hooks/
 https://github.com/taniarascia/react-hooks/tree/master/src
 https://dzone.com/articles/consuming-rest-api-with-reactjs
