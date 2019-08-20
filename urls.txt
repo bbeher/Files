@@ -1,6 +1,7 @@
 XXXXX Proficiency XXXXXX
 https://github.com/ritwickdey/vscode-live-sass-compiler/issues/90   //XXXXXX concatenate multiple scss files
 https://ritwickdey.github.io/vscode-live-sass-compiler/docs/settings.html   //XXXX Live Sass Compiler | VSCode Extension settings
+https://github.com/ritwickdey/vscode-live-sass-compiler/blob/master/docs/settings.md //XXXX Live Sass Compiler | VSCode Extension settings
 https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel_icon&stacked=h   //xxxx w3 school bootstrap carousel
 
 XXXXXX JSON LOAD IMG Refe XXXXXXXXXX
