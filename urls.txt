@@ -4,6 +4,15 @@ https://ritwickdey.github.io/vscode-live-sass-compiler/docs/settings.html   //XX
 https://github.com/ritwickdey/vscode-live-sass-compiler/blob/master/docs/settings.md //XXXX Live Sass Compiler | VSCode Extension settings
 https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel_icon&stacked=h   //xxxx w3 school bootstrap carousel
 
+------ SASS ----
+https://github.com/HugoGiraudel/sass-boilerplate   //xxxxxxxxxx sass-boilerplate
+https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4   //xxxxxxxxxxxxx Structuring your Sass Projects
+http://thesassway.com/beginner/how-to-structure-a-sass-project  //xxxxxxxxxxxxxxxxxxx  How to structure a Sass project
+https://itnext.io/writing-media-queries-with-sass-mixins-3ea591ea3ea4   //XXXXXXXXXXXX SASS media query / breakpoint
+https://medium.com/codeartisan/breakpoints-and-media-queries-in-scss-46e8f551e2f2  //XXXXXXXXXXXXXX Breakpoints and media queries in SCSS
+https://github.com/Necromancerx/media-queries-scss-mixins   //XXXXXXXXXXXX media-queries-scss-mixins
+https://glennmccomb.com/articles/useful-sass-scss-media-query-mixins-for-bootstrap/  //xxxxxxxxxxxxxx alternate way for breakpoints in scss
+
 XXXXXX JSON LOAD IMG Refe XXXXXXXXXX
 https://www.w3schools.com/js/tryit.asp?filename=tryjson_function
 https://www.w3schools.com/js/tryit.asp?filename=tryjson_file
