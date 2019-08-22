@@ -12,6 +12,7 @@ https://itnext.io/writing-media-queries-with-sass-mixins-3ea591ea3ea4   //XXXXXX
 https://medium.com/codeartisan/breakpoints-and-media-queries-in-scss-46e8f551e2f2  //XXXXXXXXXXXXXX Breakpoints and media queries in SCSS
 https://github.com/Necromancerx/media-queries-scss-mixins   //XXXXXXXXXXXX media-queries-scss-mixins
 https://glennmccomb.com/articles/useful-sass-scss-media-query-mixins-for-bootstrap/  //xxxxxxxxxxxxxx alternate way for breakpoints in scss
+https://responsivedesign.is/develop/getting-started-with-sass-and-breakpoint-mixin/  //xxxxxxxxxxxxxx for braekpoints scss
 
 XXXXXX JSON LOAD IMG Refe XXXXXXXXXX
 https://www.w3schools.com/js/tryit.asp?filename=tryjson_function
