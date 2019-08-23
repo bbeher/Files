@@ -4,6 +4,8 @@ https://ritwickdey.github.io/vscode-live-sass-compiler/docs/settings.html   //XX
 https://github.com/ritwickdey/vscode-live-sass-compiler/blob/master/docs/settings.md //XXXX Live Sass Compiler | VSCode Extension settings
 https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel_icon&stacked=h   //xxxx w3 school bootstrap carousel
 
+https://love2dev.com/blog/absolute-centering-css/  //xxxx Use CSS Flexbox to Center Anything Vertically & Horizontally - Images, Text or DIVs Without Floats (Tutorial)
+
 ------ SASS ----
 https://github.com/HugoGiraudel/sass-boilerplate   //xxxxxxxxxx sass-boilerplate
 https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4   //xxxxxxxxxxxxx Structuring your Sass Projects
