@@ -41,6 +41,8 @@ https://www.freecodecamp.org/news/how-to-get-started-with-react-hooks-controlled
 
 XXXXXXXX Redux Example XXXXXXXXXXXXX
 
+https://codesandbox.io/s/ljy896z9q  //XXX Next next functionality
+
 https://levelup.gitconnected.com/using-jwt-in-your-react-redux-app-for-authorization-d31be51a50d2   //XX Login page MUST TRY
 
 
