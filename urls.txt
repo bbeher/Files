@@ -1,6 +1,8 @@
 //XXXXXXXXX Jobs abroad XXXXXXXXXXXXX
 https://stackoverflow.com/jobs/273839/front-end-engineer-working-in-japan-line-corporation?so=i&pg=1&offset=16&l=japan&u=Miles&d=20 
 
+//XXXXXXXXXXXXXX Json's XXXXXXXXXXXXXXX
+https://jsonplaceholder.typicode.com/todos
 
 XXXXX Proficiency XXXXXX
 https://github.com/ritwickdey/vscode-live-sass-compiler/issues/90   //XXXXXX concatenate multiple scss files
