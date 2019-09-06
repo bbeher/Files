@@ -177,6 +177,13 @@ https://www.codingame.com/playgrounds/9169/simple-redux-create-delete-contact-ap
 https://www.thegreatcodeadventure.com/react-redux-tutorial-part-viii-the-delete-feature/
 
 
+https://www.valentinog.com/blog/redux/   //xxxxxxxxx refs
+There are two key points for avoiding mutations in Redux:
+
+Using concat(), slice(), and …spread for arrays
+Using Object.assign() and …spread for objects
+
+
 
 
 
