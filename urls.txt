@@ -46,11 +46,13 @@ https://upmostly.com/tutorials/form-validation-using-custom-react-hooks     //XX
 https://github.com/upmostly/custom-react-hooks-form-validation
 https://www.freecodecamp.org/news/how-to-get-started-with-react-hooks-controlled-forms-826c99943b92/  //Xxx React hook basic example
 
+https://www.codingame.com/playgrounds/8595/reactjs-higher-order-components-tutorial     //XXX ReactJS Higher Order Components Tutorial
+
 XXXXXXXXXXX Redux Simple | Examples XXXXXXXXXXXX
 https://www.freecodecamp.org/forum/t/redux-toggle-a-text-value-onclick/208582/2     //XX Simple toggle example
 
 XXXXXXXX Redux Example XXXXXXXXXXXXX
-
+https://www.codingame.com/playgrounds/8894/redux-tutorial-for-beginners     //Simple example odf adding +1 and substract -1
 https://blog.tylerbuchea.com/super-simple-react-redux-application-example/  // Simple easy for practice
 
 https://codesandbox.io/s/ljy896z9q  //XXX Next next functionality
