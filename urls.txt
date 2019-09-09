@@ -4,6 +4,9 @@ https://stackoverflow.com/jobs/273839/front-end-engineer-working-in-japan-line-c
 //XXXXXXXXXXXXXX Json's XXXXXXXXXXXXXXX
 https://jsonplaceholder.typicode.com/todos
 https://jsonplaceholder.typicode.com/posts   //XXXXXXXXXX Used in https://www.valentinog.com/blog/redux/
+https://jsonplaceholder.typicode.com/users    //XXXX Used in https://dev.to/dev_amaz/using-fetch-api-to-get-and-post--1g7d
+
+https://dev.to/dev_amaz/using-fetch-api-to-get-and-post--1g7d     //XXXXXXXXX GET POST API
 
 XXXXX Proficiency XXXXXX
 https://github.com/ritwickdey/vscode-live-sass-compiler/issues/90   //XXXXXX concatenate multiple scss files
