@@ -12,6 +12,7 @@ https://dev.to/dev_amaz/using-fetch-api-to-get-and-post--1g7d     //XXXXXXXXX GE
 https://dev.to/markusclaus/fetching-data-from-an-api-using-reactredux-55ao   //XX Redux API fetch
 https://redux.js.org/advanced/async-actions       //xxxxxxxxxxxxxxx Advance redux fetch
 https://daveceddia.com/where-fetch-data-redux/    //xxxxxxxxxx making call APO in redux
+https://medium.com/@lavitr01051977/basic-react-redux-app-with-async-call-to-api-e478e6e0c48b  //XXXX React-Redux Async example with Thunk middleware XXXXX
 
 XXXXX Proficiency XXXXXX
 https://github.com/ritwickdey/vscode-live-sass-compiler/issues/90   //XXXXXX concatenate multiple scss files
@@ -60,6 +61,7 @@ XXXXXXXXXXX Redux Simple | Examples XXXXXXXXXXXX
 https://www.freecodecamp.org/forum/t/redux-toggle-a-text-value-onclick/208582/2     //XX Simple toggle example
 
 XXXXXXXX Redux Example XXXXXXXXXXXXX
+https://github.com/rajaraodv/react-redux-blog/tree/master/public/src    //XXXX CRUD APPLICATION
 https://www.codingame.com/playgrounds/8894/redux-tutorial-for-beginners     //Simple example odf adding +1 and substract -1
 https://blog.tylerbuchea.com/super-simple-react-redux-application-example/  // Simple easy for practice
 
